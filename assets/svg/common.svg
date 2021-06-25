@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.667" height="61.667" viewBox="0 0 61.667 61.667">
+  <g id="Bullseye_icon-01" data-name="Bullseye icon-01" transform="translate(0.5 0.5)">
+    <path id="Path_155" data-name="Path 155" d="M782.96,381.743a30.334,30.334,0,1,1-30.335-30.333A30.334,30.334,0,0,1,782.96,381.743Z" transform="translate(-722.293 -351.41)" fill="#fff" stroke="#006dda" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Group_553" data-name="Group 553" transform="translate(4.336 4.477)">
+      <path id="Path_156" data-name="Path 156" d="M780.78,384.11a26,26,0,1,1-26-26A26,26,0,0,1,780.78,384.11Z" transform="translate(-728.784 -358.112)" fill="#006dda"/>
+      <ellipse id="Ellipse_61" data-name="Ellipse 61" cx="13.241" cy="13.241" rx="13.241" ry="13.241" transform="translate(12.683 12.69)" fill="#fff"/>
+      <path id="Path_157" data-name="Path 157" d="M772.535,391.76a10.078,10.078,0,1,1-10.079-10.079A10.078,10.078,0,0,1,772.535,391.76Z" transform="translate(-736.616 -365.936)" fill="#f18400"/>
+    </g>
+  </g>
+</svg>
