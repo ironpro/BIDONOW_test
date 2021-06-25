@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Test</title>
+        <title>THIS IS TEST PROJECT</title>
         <link rel="stylesheet" href="./assets/css/main.css">
         <script src="./assets/js/lang.js"></script>
     </head>
@@ -84,7 +84,7 @@
                 <div class="number">
                     <span class="enter-text"><b>Create a password</b></span>
                     <div class="password-view">
-                    <input class="show-pass" id="password_hiden_text" placeholder="Laura0819" oninput="onCheckPassword(value)"></input>
+                    <input class="show-pass" id="password_hiden_text" type="password" placeholder="Laura0819" oninput="onCheckPassword(value)"></input>
                     <!--  -->
                     <div style="cursor: pointer;">
                         <svg id="svg_password_hiden_text" onclick="onChangeType('text')"
@@ -156,7 +156,7 @@
                 </div>
             </div>
             <div class="button-view">
-                <button onclick="onSubmit()" style="cursor: pointer;"><b>Submit</b></button>
+                <button onclick="onSubmit()" id="btn-submit" style="cursor: pointer;"><b>Submit</b></button>
             </div>
             <div class="permisson">
                 <img src="./assets/svg/call.svg">
@@ -170,6 +170,3 @@
     </body>
     <script src="./assets/js/myscripts.js"></script>
 </html> 
-
-
-  
